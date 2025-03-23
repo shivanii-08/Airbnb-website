@@ -22,7 +22,7 @@ function Navbar() {
      
       
       {/* centre  */}
-      <div className="flex justify-evenly border px-3 py-2 rounded-3xl gap-x-4 shadow-md">
+      <div className="flex justify-evenly border px-3 py-2 rounded-3xl gap-x-4 shadow-md items-center">
         <div className="font-medium">Anywhere</div>
         <div className="h-8 border border-gray-300"></div>
         <div className="font-medium">Any week</div>
